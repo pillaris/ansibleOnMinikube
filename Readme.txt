@@ -3,8 +3,8 @@ Okolje za testiranje in učenje orodja ansible.
 
 Okolje sestavljajo 3 nodi
 - master: Ubuntu: ima nameščen ansible.
-- worker01: CentOS: 
-- worker02: Ubuntu:
+- worker01: Ubuntu 
+- worker02: Ubuntu
 
 Pogoji/prerequisite:
 - nameščen in zagnan minikube
