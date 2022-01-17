@@ -11,10 +11,6 @@ Pogoji/prerequisite:
 
 ### Zagon in priprava okolja:
 
-zaženi minikube:
+zaženi minikube: `minikube start`
 
-`minikube start`
-
-zaženi run.sh skripto
-
-`./run.sh`
+zaženi run.sh skripto: `./run.sh`
