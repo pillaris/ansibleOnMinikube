@@ -25,9 +25,9 @@ Pogoji/prerequisite:
 2. Na worker nodih je narejen uporabnik: ansy:object00
 
 3. Predloga za inventory:  
-`
-localhost     ansible_connection=local
-master        ansible_connection=local
-worker01      ansible_user=myuser      ansible_ssh_pass=object00
-worker02      ansible_user=myuser      ansible_ssh_pass=object00
-`
+```
+localhost     ansible_connection=local  
+master        ansible_connection=local  
+worker01      ansible_user=myuser      ansible_ssh_pass=object00  
+worker02      ansible_user=myuser      ansible_ssh_pass=object00  
+```
