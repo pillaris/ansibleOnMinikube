@@ -24,7 +24,7 @@ Pogoji/prerequisite:
 
 2. Na worker nodih je narejen uporabnik: ansy:object00
 
-3. Predloga za inventory:
+3. Predloga za inventory:  
 `
 localhost     ansible_connection=local
 master        ansible_connection=local
